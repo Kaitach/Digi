@@ -1,0 +1,46 @@
+
+.centrado {
+    width: 100%;
+    text-align: center;
+}
+
+h1,p {
+    color: red;    
+    text-align: center;
+    font-size: 48px;
+}
+
+
+.sect {
+    width: 100%;
+    min-height: 500px;
+  }
+  #sect1,
+  #sect3 {
+    background-color: #3333337d;
+    color: #fff;
+  }
+  #sect2 {
+    background-color: #dddddd7d;
+    color: #333;
+  }
+  video {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+
+  }
+
+   input[type="search"] {
+    width: 10%;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: 1px solid rgb(12, 12, 12);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background: none;
+  }
